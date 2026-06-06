@@ -80,6 +80,8 @@ Controls the complete execution flow of the program.
 
 ## Sample Input
 
+![Program Output](Result.PNG)
+
 
 Enter number of subjects: 3
 
@@ -96,7 +98,8 @@ Enter marks of subject 3: 70
 Enter maximum marks of subject 3: 100
 
 ## Sample Output
-![Result](Result.png)
+![Program Output](Result.PNG)
+
 ==============RESULT==============
 
 Total Obtained            :195.0
