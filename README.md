@@ -79,7 +79,7 @@ Controls the complete execution flow of the program.
 | Below 50     | F     |
 
 ## Sample Input
-![Result](screenshots/result.png)
+
 
 Enter number of subjects: 3
 
@@ -96,7 +96,7 @@ Enter marks of subject 3: 70
 Enter maximum marks of subject 3: 100
 
 ## Sample Output
-![Result](result.png)
+![Result](Result.png)
 ==============RESULT==============
 
 Total Obtained            :195.0
