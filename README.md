@@ -114,7 +114,7 @@ Lowest Subject Percentage :70.00%
 
 Student-Marks-Manager
 
-├── main.py
+├── marksManager.py
 
 ├── README.md
 
