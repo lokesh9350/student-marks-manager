@@ -96,7 +96,7 @@ Enter marks of subject 3: 70
 Enter maximum marks of subject 3: 100
 
 ## Sample Output
-
+![Result](result.png)
 ==============RESULT==============
 
 Total Obtained            :195.0
