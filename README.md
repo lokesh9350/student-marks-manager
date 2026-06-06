@@ -79,6 +79,7 @@ Controls the complete execution flow of the program.
 | Below 50     | F     |
 
 ## Sample Input
+![Result](screenshots/result.png)
 
 Enter number of subjects: 3
 
